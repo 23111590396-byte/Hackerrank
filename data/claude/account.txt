@@ -1,0 +1,64 @@
+Claude by Anthropic — Account and Billing Support
+
+## Account Issues
+
+### Login problems
+If you cannot log in:
+1. Check that Caps Lock is off.
+2. Try "Forgot Password" to reset your password.
+3. If using Google sign-in, ensure you're using the correct Google account.
+4. Clear browser cache and cookies, then retry.
+5. Try a different browser or incognito mode.
+6. If still unable to log in, contact support@anthropic.com with your email address.
+
+### Account locked or suspended
+Accounts may be suspended if they violate Anthropic's usage policies. If your account is suspended, you receive an email with the reason. To appeal a suspension, reply to the suspension email or contact support@anthropic.com. Accounts involved in fraud or serious policy violations may be permanently banned.
+
+### Two-factor authentication issues
+If you've lost access to your 2FA device:
+1. Use a backup code (saved during setup).
+2. If no backup codes, contact support@anthropic.com with identity verification details.
+Note: Anthropic cannot bypass 2FA without proper identity verification to protect account security.
+
+### Changing account email
+Go to Settings → Account → Change Email. You must verify the new email. If you no longer have access to the original email, contact support@anthropic.com with proof of identity.
+
+### Multiple accounts
+Anthropic's terms allow one primary account per person. Creating multiple accounts to bypass limits or for abuse purposes violates terms of service.
+
+## Billing and Subscriptions
+
+### Claude Pro pricing
+Claude Pro is $20/month (USD) or equivalent in supported currencies. Pricing may vary by region. The subscription auto-renews monthly.
+
+### Payment methods
+Claude Pro accepts major credit and debit cards (Visa, Mastercard, American Express) and PayPal in some regions. Bank transfers are not supported for claude.ai subscriptions. Payments are processed by Stripe.
+
+### Billing date
+Your billing date is the date you first subscribed. You are billed on the same date each month. If the date doesn't exist in a given month (e.g., 31st), billing occurs on the last day of that month.
+
+### Viewing invoices
+Go to Settings → Billing → Billing History to view and download invoices. Invoices are also emailed to your registered address each billing cycle.
+
+### Subscription cancellation
+Cancel at any time in Settings → Billing → Cancel Subscription. You keep Pro access until the end of the current billing period. No prorated refunds are issued for cancellations unless required by applicable law.
+
+### Refund requests
+Refund requests are considered on a case-by-case basis. To request a refund, contact billing@anthropic.com with your account email, the charge date, and the reason for the refund request. Refunds are generally only issued for billing errors or in cases where the service was completely inaccessible. Partial period refunds are not standard policy.
+
+### Failed payment
+If a payment fails, you receive an email notification. Claude Pro access continues for a 7-day grace period. Update your payment method in Settings → Billing → Update Payment Method. After the grace period, access reverts to the free plan.
+
+### Charge disputes
+If you see an unrecognized charge from Anthropic, first verify: Check if a family member subscribed, check your email for any subscription confirmation. If the charge is genuinely unrecognized, contact billing@anthropic.com with the transaction date and amount. Do not initiate a chargeback before contacting Anthropic — chargebacks may result in account suspension.
+
+## API Billing (for developers)
+
+### API usage billing
+API usage is billed monthly based on tokens consumed. You can set spending limits in the console to prevent unexpected charges. Detailed usage logs are available in the Anthropic console.
+
+### Free API credits
+New API users receive free credits to get started. Credits expire after 90 days. Once credits are exhausted, a payment method is required to continue.
+
+### API billing support
+For API billing questions, contact api-support@anthropic.com or use the console support portal.

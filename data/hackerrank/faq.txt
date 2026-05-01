@@ -1,0 +1,66 @@
+HackerRank — Frequently Asked Questions
+
+## General
+
+### What is HackerRank?
+HackerRank is a technology company that provides technical skill assessment and hiring solutions. Developers use HackerRank to practice coding, earn certifications, and apply for jobs. Companies use HackerRank to screen and hire technical talent.
+
+### Is HackerRank free for developers?
+Yes, HackerRank is free for individual developers. You can access thousands of practice problems, compete in contests, and earn skill certifications at no cost. Premium features for companies require a paid subscription.
+
+### How do I contact HackerRank support?
+You can contact support via the Help Center at support.hackerrank.com. For urgent issues, use the live chat feature on the support portal. Response times: Live Chat: 2-4 hours | Email: 1-2 business days | Phone: Enterprise customers only.
+
+## Practice and Challenges
+
+### How does the rating system work?
+Your HackerRank rating is calculated based on your performance in contests and challenges. Solving harder problems earns more points. Contest rankings affect your leaderboard position. Certification scores are separate from your practice rating.
+
+### What are HackerRank badges?
+Badges are awarded for completing problem sets in specific domains (Algorithms, Data Structures, SQL, etc.). Badges have levels: Bronze, Silver, Gold, Platinum, and Diamond. Badge progress is visible on your profile and can be shared with recruiters.
+
+### Can I delete my practice submissions?
+Submissions in the Practice section can be viewed but not deleted. Contest submissions cannot be modified after the contest ends. This ensures integrity of leaderboard rankings.
+
+### Are there hints available for challenges?
+Some challenges provide editorial solutions and discussions after you solve them or after the contest ends. Editorials explain the optimal approach and complexity. The discussion tab allows community Q&A for most problems.
+
+## Jobs and Hiring
+
+### How does the HackerRank job board work?
+Companies post job openings on HackerRank's job board. Applying sends your HackerRank profile (rating, badges, certifications) to the company. Some jobs require you to complete a sponsored challenge as part of the application.
+
+### Can companies see my practice solutions?
+No. Companies only see your HackerRank profile summary (ratings, badges, certifications) and any assessment results from tests they've directly sent you. Practice submissions are private unless you share them.
+
+### What if I'm invited to the wrong test?
+Contact the recruiter who sent the invitation. If you believe it was sent in error, do not start the test. HackerRank support cannot cancel or reassign assessments — only the recruiter can do this.
+
+## Technical Requirements
+
+### Minimum system requirements
+- Operating System: Windows 10, macOS 10.14+, Ubuntu 18.04+
+- Browser: Chrome 90+, Firefox 88+, Edge 90+
+- Internet: Stable broadband connection (minimum 5 Mbps recommended)
+- RAM: 4GB minimum, 8GB recommended
+- Webcam: Required for proctored tests
+
+### Mobile device support
+HackerRank is not fully supported on mobile devices. Coding challenges require a keyboard and full browser environment. Some non-coding content (reading, MCQs) may work on mobile but this is not guaranteed.
+
+### Keyboard shortcuts in the editor
+The code editor supports Vim and Emacs keybindings. Toggle in editor settings (gear icon). Common shortcuts: Ctrl+Enter to run code, Ctrl+/ to comment, Ctrl+Z to undo.
+
+## Profile and Settings
+
+### Changing your username
+Usernames can be changed once every 30 days. Go to Profile → Settings → Edit Username. Note that your old username becomes available for others after the change.
+
+### Privacy settings
+You can set your profile to public or private in Privacy Settings. A private profile hides your submissions, badges, and rank from non-followers. Public profiles are visible to recruiters.
+
+### Two-factor authentication
+Enable 2FA in Account Settings → Security → Two-Factor Authentication. Supported methods: authenticator app (Google Authenticator, Authy), SMS. 2FA is strongly recommended to protect your account.
+
+### Email notifications
+Manage notification preferences in Settings → Notifications. You can opt out of marketing emails while keeping account and contest notifications. Unsubscribe links are included in all emails.

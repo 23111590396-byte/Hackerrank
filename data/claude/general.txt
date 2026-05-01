@@ -1,0 +1,94 @@
+Claude by Anthropic — Support Documentation
+
+## Getting Started with Claude
+
+### What is Claude?
+Claude is an AI assistant made by Anthropic. Claude can help with writing, analysis, coding, math, research, question answering, creative projects, and much more. Claude is available through Claude.ai and via the Anthropic API.
+
+### How do I create a Claude account?
+Go to claude.ai and click "Sign Up". You can register with an email address or sign in with Google. After verifying your email, you can start chatting with Claude immediately on the free plan.
+
+### What plans are available?
+- Free: Access to Claude with usage limits. Suitable for light personal use.
+- Claude Pro ($20/month): Higher usage limits, priority access during peak times, access to more powerful Claude models, and early access to new features.
+- API Access: For developers and businesses. Billing is based on tokens used. Sign up at console.anthropic.com.
+
+### What is the difference between Claude models?
+Anthropic offers several Claude models optimized for different use cases:
+- Claude Haiku: Fast, cost-efficient, suitable for simple tasks.
+- Claude Sonnet: Balanced performance and speed. Ideal for most tasks.
+- Claude Opus: Most capable model. Best for complex reasoning and analysis.
+Model availability varies by plan. Claude Pro subscribers get access to all available models.
+
+## Privacy and Data
+
+### Does Claude store my conversations?
+Conversations are stored to provide the service and may be reviewed by Anthropic to improve safety and model quality. You can delete conversations at any time from your conversation history. Anthropic's privacy policy governs how data is handled.
+
+### Can I opt out of my data being used for training?
+You can submit a data deletion request via Anthropic's privacy portal. API customers can opt out of model training by default — check API usage policies at anthropic.com/privacy. For claude.ai users, contact privacy@anthropic.com.
+
+### Is Claude GDPR compliant?
+Anthropic complies with applicable data protection regulations including GDPR. EU users have rights to access, rectification, erasure, and portability of their data. Submit GDPR requests to privacy@anthropic.com.
+
+### What data does Claude collect?
+Claude.ai collects: account information, conversation content, usage metrics, and device/browser information. Data is used to provide and improve the service. Data is not sold to third parties.
+
+### Conversation privacy
+Conversations on claude.ai are private by default. Anthropic employees may review conversations for safety monitoring. Claude does not have memory of previous conversations by default unless you enable memory features.
+
+## Account Management
+
+### How do I reset my password?
+Click "Forgot Password" on the login page. Enter your email. A reset link is sent within a few minutes. Check spam/junk if not received. Reset links expire in 1 hour.
+
+### How do I upgrade to Claude Pro?
+Log in to claude.ai, click your profile icon, select "Upgrade to Pro". Enter payment details. The Pro subscription is billed monthly and can be cancelled at any time.
+
+### How do I cancel my subscription?
+Go to claude.ai → Settings → Billing → Cancel Subscription. Cancellation takes effect at the end of the current billing period. You retain Pro access until then. No partial refunds for unused time.
+
+### Changing your email address
+Go to Settings → Account → Change Email. A verification link is sent to your new email. Your old email is used until verified. Contact support@anthropic.com if you cannot access your original email.
+
+### Account deletion
+To delete your account, go to Settings → Account → Delete Account. This is irreversible. All your conversations and data are deleted within 30 days. Pending subscription charges will still apply.
+
+## Conversation Management
+
+### How do I start a new conversation?
+Click the "New Chat" button in the sidebar to start a fresh conversation. Each conversation is independent — Claude does not carry context between separate conversations unless Projects are enabled.
+
+### What are Claude Projects?
+Projects are a feature for Claude Pro subscribers that allow you to group conversations and give Claude persistent context (like instructions or documents). All conversations within a project share the same context.
+
+### Can I share conversations?
+Yes. You can create a shareable link for any conversation via the share button. Shared conversations are publicly accessible via the link. You can disable the link at any time.
+
+### How do I delete a conversation?
+Hover over the conversation in your sidebar, click the three-dot menu, and select "Delete". Deletion is permanent.
+
+### Context window and message limits
+Claude has a context window limit (varies by model). If a conversation becomes too long, earlier messages may be truncated. On the free plan, there is a daily message limit. Claude Pro offers significantly higher limits.
+
+## Usage Policies
+
+### What can Claude help with?
+Claude can assist with a wide range of tasks: writing, coding, analysis, research, education, creative projects, and more. Claude is designed to be helpful, harmless, and honest.
+
+### What are Claude's limitations?
+Claude will not: generate harmful content, assist with illegal activities, create malware or exploits, produce CSAM, or help with activities designed to harm people. Claude follows Anthropic's usage policies.
+
+### Reporting abuse
+If you encounter misuse or harmful content, use the thumbs-down button to flag Claude's response. You can also report issues via support.anthropic.com.
+
+## API and Developers
+
+### Getting API access
+Sign up at console.anthropic.com to access the Anthropic API. Free trial credits are provided upon registration. Production usage requires adding a payment method. API keys are managed in the API keys section of the console.
+
+### API rate limits
+Rate limits depend on your usage tier. Free tier: limited RPM and TPM. Paid tiers have higher limits. Rate limit details are listed in the console. Exceeding limits returns a 429 error.
+
+### API pricing
+Pricing is per million tokens (input and output). Current pricing is listed at anthropic.com/pricing. Costs vary by model — Haiku is cheapest, Opus is most expensive.

@@ -1,0 +1,100 @@
+Visa — Customer Support Documentation
+
+## Visa Card General Information
+
+### What is Visa?
+Visa is a global payment technology company that enables digital payments between consumers, merchants, financial institutions, and governments. Visa does not issue cards directly — your card is issued by your bank or financial institution (the card issuer).
+
+### Contacting Visa vs. your bank
+Visa provides the payment network. Your bank or card issuer manages your account, sets your credit limit, handles billing statements, and resolves disputes. For most issues (billing, disputes, fraud), contact your card issuer (the bank listed on your card) directly. Visa customer service can assist with general inquiries and help escalate unresolved issues with issuers.
+
+### Visa customer service
+Global Visa customer service: 1-800-VISA-911 (1-800-847-2911) in the US. International numbers are listed at visa.com/support. For card-specific issues, always contact your issuing bank first.
+
+### Lost or stolen card
+Call the number on the back of your card immediately to report a lost or stolen card. Your bank will block the card and issue a replacement. Visa's emergency card replacement service can also be used when abroad. Emergency assistance: 1-800-847-2911 (US) or collect +1-303-967-1096 (international).
+
+## Payments and Transactions
+
+### How does a Visa payment work?
+When you make a purchase:
+1. Your card information is sent to the merchant's bank.
+2. The merchant's bank sends an authorization request through the Visa network to your bank.
+3. Your bank approves or declines based on available funds and fraud checks.
+4. Authorization is returned to the merchant in seconds.
+5. The transaction settles within 1-3 business days.
+
+### Transaction declined
+A transaction may be declined because: insufficient funds, card expired, suspected fraud, merchant outside your usual area, international transactions not enabled. Contact your bank to understand the specific reason and resolve it.
+
+### Pending transactions
+A pending transaction means the charge has been authorized but not fully settled. Pending transactions typically settle within 1-3 business days. Holds on hotel, car rental, or gas station transactions may take 7-10 business days to release.
+
+### Transaction not recognized
+If you see a transaction you don't recognize: first check if a family member made a purchase, check if the merchant name is different from where you shopped (common with online retailers), then contact your bank to dispute the transaction if it's genuinely unauthorized.
+
+### Foreign transaction fees
+Foreign transaction fees are charged by your bank, not Visa. Fee amounts vary by card. Some premium Visa cards offer no foreign transaction fees — check with your bank.
+
+## Fraud and Security
+
+### Visa's Zero Liability Policy
+Visa's Zero Liability Policy means you are not responsible for unauthorized transactions made with your Visa card, as long as you report them promptly. This applies to online, in-store, and ATM transactions. Contact your bank immediately to report unauthorized charges.
+
+### Reporting unauthorized transactions
+Contact your bank as soon as you notice an unauthorized transaction. Your bank initiates a dispute investigation. Under Visa's Zero Liability Policy, you are not responsible for the unauthorized amount. Investigation typically takes 5-10 business days.
+
+### Common fraud types
+- **Card skimming**: Device attached to ATM or POS terminal to steal card data.
+- **Phishing**: Fake emails or websites requesting card details.
+- **Account takeover**: Fraudster gains access to your online banking and makes transactions.
+- **Card not present (CNP) fraud**: Using stolen card data for online purchases.
+
+### Protecting your card
+- Never share your PIN, CVV, or full card number except during purchases.
+- Use virtual card numbers for online shopping.
+- Enable transaction notifications via your bank's mobile app.
+- Set up spending alerts for transactions over a threshold.
+- Visa Secure (3D Secure) adds an extra authentication layer for online purchases.
+
+### Visa Secure (3D Secure)
+Visa Secure is an authentication protocol that adds a verification step for online transactions. When activated by the merchant, you may be asked to enter a one-time password or use biometric verification. This is a legitimate security measure.
+
+## Travel Support
+
+### Using your Visa card abroad
+Notify your bank before traveling internationally to avoid fraud blocks. Visa cards are accepted in over 200 countries and territories. Look for the Visa acceptance mark at merchants and ATMs.
+
+### Visa Global ATM network
+Visa-branded ATMs worldwide allow cash withdrawals using your Visa debit or credit card. ATM withdrawal fees and currency conversion fees vary by your bank. Use ATMs at banks rather than standalone kiosks to minimize fees.
+
+### Emergency card services abroad
+If your card is lost, stolen, or damaged while traveling:
+1. Call your bank's international helpline immediately.
+2. Visa Global Customer Service: +1-303-967-1096 (collect)
+3. Emergency cash disbursement may be available through Visa's travel services.
+4. Emergency card replacement typically takes 1-3 business days for delivery.
+
+### Currency conversion
+Visa converts foreign currency transactions using interbank exchange rates. Your bank may add a foreign transaction fee (typically 1-3%). Dynamic currency conversion (DCC) at merchants offers conversion at the point of sale — usually at less favorable rates. Choose to pay in local currency for better exchange rates.
+
+## Disputes and Chargebacks
+
+### Filing a dispute with your bank
+Contact your card issuer (bank) to file a dispute. Provide: transaction date, amount, merchant name, and reason for dispute. The bank initiates a chargeback process if warranted. You may be asked to provide supporting documentation.
+
+### Dispute resolution timeline
+Initial response: Your bank should acknowledge within 30 days.
+Investigation: May take 45-90 days for complex disputes.
+Resolution: You're notified of the outcome and any credits applied.
+
+### When to contact Visa vs. your bank
+Contact your bank first for: billing disputes, fraud reports, card issues. Contact Visa if your bank fails to resolve an issue within the required timeframe. Visa can facilitate escalations to issuing banks.
+
+## Visa Benefits and Rewards
+
+### Visa card benefits
+Visa card benefits vary by card tier (Visa Traditional, Visa Gold, Visa Platinum, Visa Signature, Visa Infinite) and are provided by your issuing bank. Benefits may include: travel insurance, purchase protection, extended warranty, concierge services, airport lounge access. Check your cardholder agreement for specific benefits on your card.
+
+### Visa Offers
+Visa Offers provides discounts and cashback at participating merchants. Access through your bank's mobile app or the Visa Offers portal. Offers are personalized and change regularly.

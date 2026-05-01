@@ -1,0 +1,78 @@
+HackerRank Assessment Platform — Support Documentation
+
+## Assessments and Tests
+
+### How do I start an assessment?
+To start a HackerRank assessment, open the invitation email you received and click the "Start Test" button. Ensure you are using a supported browser (Chrome 90+, Firefox 88+, Edge 90+). Disable browser extensions that may interfere with the test environment. You must have a stable internet connection.
+
+### What happens if my browser crashes during an assessment?
+If your browser crashes, close it immediately and reopen the same assessment link. HackerRank auto-saves your progress every 60 seconds. If you lose significant time due to a platform-side issue, contact the recruiter who invited you — they can reset or extend your test window. The platform itself cannot grant extensions automatically.
+
+### Can I pause an assessment?
+Most assessments do not allow pausing once started. The timer continues even if you close the browser. If you have a genuine emergency, contact the company that sent you the invitation — HackerRank support cannot intervene in recruiter-owned tests.
+
+### Supported browsers for assessments
+HackerRank assessments are supported on:
+- Google Chrome version 90 or higher
+- Mozilla Firefox version 88 or higher
+- Microsoft Edge version 90 or higher
+Safari is not officially supported for coding challenges. Mobile devices are not supported.
+
+### Code editor and environment
+The assessment code editor supports syntax highlighting, auto-indent, and multiple language selections. Available languages include Python, Java, C++, C, JavaScript, Ruby, Go, and others depending on the test configuration set by the recruiter. You cannot change languages mid-assessment unless the test explicitly allows it.
+
+### Screen sharing and proctoring
+Some assessments require screen sharing for proctoring purposes. You will be informed before the assessment starts. To share your screen: when prompted, select the entire screen (not just a window). If the screen share fails, refresh the page and try again. HackerRank uses screen recording only for the duration of the test.
+
+### Score calculation
+Your score is calculated automatically based on test cases passed. Each problem may have multiple test cases with different weights. Partial credit is awarded for partial test case completion. Scores are final once the test window closes and are sent directly to the recruiter. HackerRank support does not manually adjust or override scores.
+
+### Score disputes
+If you believe your score is incorrect due to a platform bug (e.g., code ran correctly but was marked wrong), contact support with your submission ID and a description of the issue. Score disputes are reviewed by the technical team. However, HackerRank cannot change scores at the request of candidates — score adjustments require recruiter authorization.
+
+### Multiple submissions
+You can submit multiple times during an assessment if the test allows re-submissions. The highest-scoring submission is usually used unless the recruiter has configured otherwise. Check the assessment instructions for submission rules.
+
+### Time extension requests
+HackerRank support cannot grant time extensions. Extensions must be approved by the recruiter or hiring team. Contact the company that invited you for any time-related requests.
+
+## Technical Issues
+
+### What to do if the code editor is not loading?
+1. Clear browser cache and cookies
+2. Disable browser extensions
+3. Try incognito/private mode
+4. Check your internet connection
+5. Try a different supported browser
+If the issue persists, take screenshots and contact HackerRank support with your assessment link and browser version.
+
+### Webcam not working for proctored tests
+Ensure your browser has camera permissions enabled. Go to browser settings → Privacy → Camera → Allow for hackerrank.com. Restart the browser after granting permissions. If using a corporate device, check with your IT department for permission restrictions.
+
+### Video proctoring requirements
+For proctored assessments: a webcam is required, lighting should be adequate, background should be quiet and private. HackerRank does not store proctoring footage beyond 30 days after the assessment.
+
+## Account and Access
+
+### Creating a HackerRank developer account
+Go to hackerrank.com, click "Sign Up", enter your email and password. Verify your email. You can use your account to practice, apply to jobs, and take certifications. Social sign-in via Google and LinkedIn is supported.
+
+### Forgot password
+Click "Forgot Password" on the login page. Enter your registered email. A reset link is sent within 5 minutes. Check your spam folder if not received. Reset links expire in 24 hours.
+
+### HackerRank certifications
+HackerRank offers Role Certifications and Skills Certifications. Certifications are timed and proctored. Each certification has a validity period. You can retake certifications after a 72-hour cooldown. Certificates are shareable via a unique URL on your profile.
+
+## For Recruiters / Companies
+
+### HackerRank Work platform
+HackerRank Work allows companies to create and manage technical assessments. Admins can invite candidates, set test parameters, view results, and customize challenges. Workspace owner permissions are required to add or remove team members. Billing and subscription management is accessible only to workspace owners and billing admins.
+
+### Adding team members
+Only workspace owners can add or remove team members. Go to Settings → Team → Invite Members. Enter the email address of the new member and assign a role (Admin, Interviewer, or Viewer). The invited user receives an email to join.
+
+### Candidate management
+Recruiters can view all invited candidates, their submission status, and scores. Bulk invitations are supported via CSV upload. Candidate data is retained for 12 months by default unless deleted by the admin.
+
+### API access for ATS integration
+HackerRank offers API integration for Applicant Tracking Systems (ATS). API documentation is available at developer.hackerrank.com. API keys are generated in the Settings → Integrations section. Enterprise plan required for full API access.
