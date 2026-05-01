@@ -1,0 +1,72 @@
+Visa — Fraud Prevention and Security Center
+
+## Understanding Visa Fraud Protection
+
+### How Visa detects fraud
+Visa uses advanced real-time fraud detection powered by AI and machine learning. VisaNet processes over 65,000 transactions per second and screens each for fraud indicators including unusual spending patterns, transactions in unexpected locations, high-value purchases inconsistent with spending history, and multiple rapid transactions.
+
+### Real-time transaction monitoring
+Every Visa transaction is screened in under 0.1 seconds. If a transaction triggers fraud signals, it may be declined or the cardholder may be asked to verify identity. Your bank may also send SMS or push notifications for unusual transactions.
+
+### Transaction alerts
+Enable transaction alerts through your bank's mobile app. Alerts notify you immediately of every transaction, helping you spot fraud early. Set up alerts for: all transactions, transactions over a specific amount, international transactions, online transactions.
+
+## Identity Theft
+
+### Signs of identity theft
+- Unrecognized charges on your statement
+- Declined transactions despite sufficient funds
+- Unexpected credit inquiries on your credit report
+- Bills or statements for accounts you didn't open
+- Collection calls for debts you don't recognize
+
+### What to do if you are a victim of identity theft
+1. **Immediately**: Contact your bank and block your card.
+2. **Report to Visa**: Call 1-800-847-2911.
+3. **File a police report**: Obtain a report number for your records.
+4. **Report to FTC**: identitytheft.gov (US) for an official recovery plan.
+5. **Place a fraud alert or credit freeze**: With credit bureaus (Equifax, Experian, TransUnion).
+6. **Monitor accounts**: Review all statements carefully for additional fraud.
+
+### Visa's Identity Theft Resolution Program
+Visa cardholders affected by identity theft can access Visa's Identity Theft Resolution Program. This provides step-by-step guidance, assistance communicating with merchants and financial institutions, and help restoring your credit. Contact your card issuer for enrollment.
+
+## Card Skimming and Physical Security
+
+### What is card skimming?
+Card skimming is when fraudsters attach a hidden device to an ATM or card reader to capture your card data. Modern skimmers are hard to detect.
+
+### How to protect yourself from skimming
+- Inspect ATM card slots for loose or unusual attachments.
+- Cover the keypad when entering your PIN.
+- Prefer ATMs inside banks over standalone machines.
+- Use contactless (tap-to-pay) wherever available — contactless transactions cannot be skimmed.
+- Regularly monitor your account statements.
+
+### Contactless card security
+Visa contactless cards use tokenization — each transaction uses a unique transaction code, so even if intercepted, it cannot be reused. Contactless payments are more secure than magnetic stripe swipes.
+
+## Online Security
+
+### Shopping safely online
+- Only shop on HTTPS websites (look for the padlock).
+- Use virtual card numbers for online purchases (available through some banks).
+- Never enter card details on websites reached via unsolicited emails.
+- Use Visa Secure (3D Secure) enabled cards for online shopping.
+
+### Phishing attacks
+Phishing emails pretend to be from Visa or your bank to steal card information. **Visa will never email or call asking for your full card number, PIN, or CVV.** If you receive such a request, do not respond — report it to your bank and to the Anti-Phishing Working Group at reportphishing@apwg.org.
+
+### Reporting online fraud
+Report internet fraud to: your bank, Visa (1-800-847-2911), and the Internet Crime Complaint Center (IC3) at ic3.gov.
+
+## Business Fraud Prevention (for merchants)
+
+### Visa Fraud Monitoring Program
+Merchants with high fraud or chargeback rates may be enrolled in Visa's Fraud Monitoring Program, which requires remediation plans. Consistently high fraud rates can result in additional fees or termination of Visa acceptance.
+
+### EMV chip acceptance
+EMV chip transactions significantly reduce counterfeit card fraud. Merchants not yet accepting EMV chip payments may bear liability for counterfeit fraud that occurs on their terminals (liability shift).
+
+### Card verification methods
+Merchants should use: CVV2 verification for card-not-present transactions, Address Verification Service (AVS), Visa Secure (3D Secure) for online transactions. These reduce fraud chargebacks.

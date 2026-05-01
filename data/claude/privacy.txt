@@ -1,0 +1,76 @@
+Claude by Anthropic — Privacy and Data Protection
+
+## Privacy Overview
+
+### Anthropic's commitment to privacy
+Anthropic is committed to protecting user privacy. We handle personal data with care and transparency. Our privacy practices are governed by our Privacy Policy at anthropic.com/privacy.
+
+### Types of data collected
+
+**Account data**: Name, email address, password (hashed), profile information.
+**Conversation data**: The messages you send to Claude and Claude's responses.
+**Usage data**: Feature usage, timestamps, session durations, model used.
+**Technical data**: IP address, browser type, device information, cookies.
+**Payment data**: For Pro subscribers, billing information is processed by our payment provider (Stripe) and not stored directly by Anthropic.
+
+### How data is used
+- To provide and improve the Claude service
+- To train and improve AI models (subject to your preferences)
+- To ensure safety and prevent abuse
+- To communicate account and service information
+- To comply with legal obligations
+
+## User Rights
+
+### Your rights under GDPR (EU/EEA users)
+If you are in the EU or EEA, you have rights under the General Data Protection Regulation (GDPR):
+- **Right to access**: Request a copy of your personal data.
+- **Right to rectification**: Correct inaccurate data.
+- **Right to erasure**: Request deletion of your data ("right to be forgotten").
+- **Right to portability**: Receive your data in a machine-readable format.
+- **Right to object**: Object to processing for certain purposes.
+- **Right to restrict processing**: Limit how your data is used.
+
+To exercise GDPR rights, email: privacy@anthropic.com
+
+### CCPA rights (California residents)
+California residents have the right to know what personal information is collected, the right to delete personal information, the right to opt-out of the sale of personal information (Anthropic does not sell personal data), and the right to non-discrimination for exercising rights.
+
+### Data deletion requests
+Submit data deletion requests to privacy@anthropic.com. Include your registered email address. Processing takes up to 30 days. Conversations are deleted; account data is purged after account deletion.
+
+### Opting out of AI training
+API users: By default, data from API usage may not be used for training. Check the Anthropic API usage policy for current defaults. Submit requests to opt out to privacy@anthropic.com.
+Claude.ai users: Contact privacy@anthropic.com to request that your conversations not be used for training.
+
+## Data Security
+
+### How is data protected?
+Anthropic uses industry-standard security measures:
+- Encryption in transit (TLS 1.2+)
+- Encryption at rest (AES-256)
+- Access controls and audit logs
+- Regular security audits and penetration testing
+- SOC 2 Type II compliance
+
+### Data breach notification
+In the event of a data breach affecting user data, Anthropic will notify affected users as required by applicable law. Notifications are sent via email to your registered address.
+
+### Reporting security vulnerabilities
+If you discover a security vulnerability in Claude or Anthropic's services, report it to security@anthropic.com. Do not publicly disclose vulnerabilities. Anthropic has a responsible disclosure policy.
+
+## International Data Transfers
+
+### Where is data stored?
+User data is primarily stored in the United States. For EU/EEA users, data transfers are governed by Standard Contractual Clauses (SCCs) as required by GDPR.
+
+### Cross-border transfers
+Anthropic complies with applicable data transfer regulations. EU data transfer mechanisms are documented in the Privacy Policy.
+
+## Cookies and Tracking
+
+### Cookie usage
+Claude.ai uses essential cookies for functionality, analytics cookies (with consent), and preference cookies. You can manage cookie preferences in the cookie consent banner or browser settings.
+
+### Third-party services
+Claude.ai uses third-party services including Stripe (payments), analytics providers, and infrastructure providers. These services have their own privacy policies.

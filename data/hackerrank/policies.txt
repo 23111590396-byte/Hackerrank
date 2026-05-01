@@ -1,0 +1,51 @@
+HackerRank — Policies and Terms of Service
+
+## Privacy Policy Summary
+
+### Data collection
+HackerRank collects: account information (name, email), usage data (challenges solved, time spent), assessment data (code submitted, test results), and proctoring data (screenshots, webcam footage) for proctored tests.
+
+### Data retention
+Personal data is retained for as long as your account is active. After account deletion, data is purged within 90 days. Proctoring footage is deleted within 30 days of the assessment date.
+
+### Data sharing
+HackerRank shares assessment results with the company that invited you. We do not sell personal data to third parties. Aggregated, anonymized data may be used for platform improvement.
+
+### Right to deletion
+You may request deletion of your account and associated data by contacting privacy@hackerrank.com. Deletion requests are processed within 30 days.
+
+## Community Guidelines
+
+### Code of conduct
+HackerRank community members must not: share assessment answers publicly, use offensive or discriminatory language, harass other users, or attempt to cheat on certifications or assessments.
+
+### Cheating policy
+HackerRank uses multiple methods to detect cheating, including plagiarism detection across submissions, proctoring analysis, and behavioral biometrics. Confirmed cheating results in account suspension and notification to relevant recruiters.
+
+### Plagiarism
+Submitting code copied from the internet or other users during certifications is a violation. Submissions are checked against a database of known solutions. Academic integrity applies to all HackerRank certifications.
+
+## Billing and Subscriptions (for companies)
+
+### Plans available
+HackerRank offers Starter, Growth, and Enterprise plans for companies. Pricing is available at hackerrank.com/work/pricing. Annual and monthly subscriptions are available.
+
+### Billing management
+Billing is managed by the workspace owner or a designated billing admin. Payment methods, invoices, and subscription changes are managed in the Billing section of the workspace settings. HackerRank accepts major credit and debit cards.
+
+### Refund policy
+Subscription refunds are subject to HackerRank's refund policy. Refund requests must be submitted within 30 days of the charge. All refund requests must be handled through the billing team — please contact billing@hackerrank.com with your order ID and reason for the refund.
+
+### Cancellation
+Subscriptions can be cancelled at any time. Cancellation takes effect at the end of the current billing cycle. No prorated refunds for mid-cycle cancellations unless specified in the enterprise agreement.
+
+## Security
+
+### Reporting security vulnerabilities
+HackerRank has a responsible disclosure program. Report security vulnerabilities to security@hackerrank.com. Do not publicly disclose vulnerabilities before they are patched. HackerRank acknowledges reports within 48 hours.
+
+### Account security best practices
+Use a strong, unique password. Enable two-factor authentication (2FA) in Account Settings → Security. Do not share your credentials. HackerRank will never ask for your password via email.
+
+### Unauthorized access
+If you believe your account has been accessed without authorization, change your password immediately and contact security@hackerrank.com. HackerRank will investigate and can temporarily lock the account.
