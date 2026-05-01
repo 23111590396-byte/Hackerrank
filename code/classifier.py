@@ -37,10 +37,15 @@ HIGH_RISK_KEYWORDS = [
     "payment", "billing", "money back", "invoice",
     # account / access (non-authorized)
     "not the owner", "not the admin", "restore my access",
-    "remove employee", "seat", "workspace owner",
+    "remove employee", "remove a member", "remove access",
+    "deactivate account", "offboarding", "former employee",
+    "left the company", "no longer works",
+    "seat", "workspace owner",
     # fraud / security
     "identity theft", "stolen", "fraud", "unauthorized",
     "security vulnerability", "breach", "hack",
+    "phishing", "suspicious email",
+    "card number and pin", "enter your pin", "verify your card",
     # legal / compliance
     "infosec", "security form", "compliance", "gdpr",
     "fill in the forms", "legal", "erasure",
@@ -53,7 +58,8 @@ HIGH_RISK_KEYWORDS = [
     "code to delete", "exploit", "supprimer",
     # other
     "stolen card", "suspended", "duplicate charge",
-    "unrecognized", "unauthorized transaction",
+    "unrecognized charge", "unrecognized", "unauthorized transaction",
+    "declined", "card declined",
 ]
 
 # Regex patterns for prompt injection
@@ -71,6 +77,9 @@ INJECTION_PATTERNS = [
     r"delete\s+all\s+files",
     r"supprimer\s+tous",
     r"exécuter",
+    r"enter\s+your\s+(card|pin|account)",
+    r"suspicious\s+email",
+    r"claiming\s+to\s+be\s+from",
 ]
 
 # ---------------------------------------------------------------------------
@@ -165,6 +174,8 @@ def get_request_type(ticket: dict) -> str:
     invalid_kw = [
         "ignore previous", "reveal", "rm -rf", "delete all", "exploit",
         "hack", "system prompt", "supprimer", "exécuter",
+        "phishing", "suspicious email", "claiming to be from",
+        "enter your pin", "card number and pin",
     ]
 
     for kw in invalid_kw:

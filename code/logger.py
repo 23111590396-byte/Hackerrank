@@ -52,7 +52,8 @@ CREATE TABLE IF NOT EXISTS runs (
     provider_used TEXT,
     response      TEXT,
     justification TEXT,
-    tokens_used   INTEGER
+    tokens_used   INTEGER,
+    confidence    TEXT
 );
 """
 
@@ -80,8 +81,8 @@ def log_to_sqlite(repo_root: str, ticket_id: int, record: dict) -> None:
                 INSERT INTO runs (
                     timestamp, ticket_id, company, subject,
                     status, request_type, product_area, provider_used,
-                    response, justification, tokens_used
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    response, justification, tokens_used, confidence
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     timestamp,
@@ -95,6 +96,7 @@ def log_to_sqlite(repo_root: str, ticket_id: int, record: dict) -> None:
                     record.get("response", ""),
                     record.get("justification", ""),
                     record.get("tokens_used", 0),
+                    record.get("confidence", ""),
                 ),
             )
             conn.commit()

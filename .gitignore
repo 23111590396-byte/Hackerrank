@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
 *.pyo
 *.pyd
 .Python
@@ -9,6 +10,9 @@ __pycache__/
 dist/
 build/
 .eggs/
+
+# macOS
+.DS_Store
 
 # Virtual environments
 venv/
@@ -22,6 +26,7 @@ env/
 
 # Sensitive / generated files
 code/.env
+audit.db
 code/audit.db
 support_issues/output.csv
 

@@ -5,6 +5,7 @@ Groq (primary) + Google Gemini (fallback) LLM routing with retry logic.
 
 import json
 import os
+import sys
 
 from tenacity import (
     retry,
@@ -131,8 +132,8 @@ def call(ticket: dict, chunks: list[str]) -> tuple[dict, str]:
         try:
             return _groq_call(ticket, chunks)
         except Exception as groq_err:
+            print(f"[llm_router] Groq failed: {groq_err}", file=sys.stderr)
             # Fall through to Gemini
-            pass
 
     if gemini_available:
         try:

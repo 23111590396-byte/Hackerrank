@@ -50,6 +50,7 @@ def run(
             "justification": risk_reason,
             "provider_used": "none",
             "tokens_used": 0,
+            "confidence": "high",
         }
         logger.log_to_file(ticket_id, result, "none", "Escalated", risk_reason)
         logger.log_to_sqlite(repo_root, ticket_id, result)
@@ -83,6 +84,7 @@ def run(
         "justification": justification,
         "provider_used": provider,
         "tokens_used": llm_response.get("tokens_used", 0),
+        "confidence": "medium" if status == "Replied" else ("low" if provider != "none" else "none"),
     }
 
     logger.log_to_file(ticket_id, result, provider, status, justification)

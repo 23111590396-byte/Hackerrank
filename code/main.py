@@ -135,7 +135,7 @@ def main() -> None:
 
     # Live results table
     live_table = Table(
-        "  #  ", "Company", "Status", "Type", "Area", "Provider",
+        "  #  ", "Company", "Status", "Type", "Area", "Provider", "Confidence",
         box=box.SIMPLE_HEAVY,
         show_header=True,
         header_style="bold magenta",
@@ -174,6 +174,7 @@ def main() -> None:
                 result.get("request_type", ""),
                 result.get("product_area", ""),
                 provider_label,
+                result.get("confidence", ""),
             )
 
             if args.verbose:
